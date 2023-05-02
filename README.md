@@ -23,7 +23,4 @@
 &nbsp;
 </br>
 
-✨ TOOLS ✨
-</br>
-
 </div>
