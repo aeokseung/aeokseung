@@ -39,6 +39,10 @@ OPIc IH / 2022.03.17 ~ 2024.03.17</p>
 &nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 &nbsp;
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+&nbsp;
 </br>
 
 </div>
