@@ -14,8 +14,6 @@ SQLD</p>
 정보처리기사(실기-ing)</p>
 한국소프트웨어산업협회 MSA기반 Full Stack 개발 전문가 양성과정 2차 / 2023.07.24 ~ 2023.12.22</p>
 
-
-
 <h2>✨ STUDYING ✨<h2>
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -47,5 +45,4 @@ SQLD</p>
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 &nbsp;
 </br>
-
 </div>
