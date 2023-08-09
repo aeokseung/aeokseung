@@ -33,6 +33,12 @@ OPIc IH / 2022.03.17 ~ 2024.03.17</p>
 &nbsp;
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 &nbsp;
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle-#F80000?style=for-the-badge&logo=oracle&logoColor=white">
+&nbsp;
 </br>
 
 </div>
