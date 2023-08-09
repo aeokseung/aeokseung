@@ -1,8 +1,10 @@
 <div align="center">
+
 방가워요! 👋
 잘 못해도 열심히 할게요!
 </br>
 <h2>기타 활동</h2>
+
 한국소프트웨어산업협회 MSA기반 Full Stack 개발 전문가 양성과정 2차 / 2023-07-24 ~ 2023-12-22</p>
 SQLD</p>
 Kakao 클라우드스쿨 개발자 양성과정 2기 / 2022.11 ~ 2023.05</p>
@@ -11,7 +13,8 @@ OPIc IH / 2022.03.17 ~ 2024.03.17</p>
 월드프렌즈 청년봉사단 37기 한국대학사회봉사협의회 / 2018/12/30 ~ 2019/01/11</p>
 넥슨네트웍스 모바일 QA부서(인턴) / 2018/07/02 ~ 2018/08/31</p>
 
-✨ STUDYING ✨
+<h2>✨ STUDYING ✨<h2>
+
 </br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 &nbsp;
