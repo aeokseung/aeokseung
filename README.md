@@ -14,7 +14,7 @@ OPIc IH / 2022.03.17 ~ 2024.03.17</p>
 넥슨네트웍스 모바일 QA부서(인턴) / 2018/07/02 ~ 2018/08/31</p>
 
 <h2>✨ STUDYING ✨<h2>
-</br>
+
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
