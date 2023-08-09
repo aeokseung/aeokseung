@@ -11,7 +11,6 @@ OPIc IH / 2022.03.17 ~ 2024.03.17</p>
 월드프렌즈 청년봉사단 37기 한국대학사회봉사협의회 / 2018/12/30 ~ 2019/01/11</p>
 넥슨네트웍스 모바일 QA부서(인턴) / 2018/07/02 ~ 2018/08/31</p>
 
-    </br>
 ✨ STUDYING ✨
 </br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
